@@ -1,0 +1,12 @@
+README.md
+setup.py
+river/__init__.py
+river/compose.py
+river/linear_model.py
+river/metrics.py
+river/multiclass.py
+river/optim.py
+river.egg-info/PKG-INFO
+river.egg-info/SOURCES.txt
+river.egg-info/dependency_links.txt
+river.egg-info/top_level.txt
